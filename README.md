@@ -1,5 +1,6 @@
 <h1 align="center">Hello, Hallo, Bonjour, Goededaag, I'm Alex</h1>
-<h3 align="center">A Senior Backend Engineer, DevOps Evangelist and eCommerce Specialist from Germany.</h3>
+<h3 align="center">Senior Backend Engineer, DevOps Evangelist and eCommerce Specialist from Germany.</h3>
+
 - 🔭 I’m currently working on [creating eight billion threads as a PoC for another project](https://github.com/akluth/eight-billion-threads)
 
 - 👯 I’m looking to collaborate on **anything astrophysics related**
