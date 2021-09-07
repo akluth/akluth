@@ -2,7 +2,7 @@
 <h3 align="center">Senior Backend Engineer, DevOps Evangelist and eCommerce specialist from Germany.</h3>
 
 There's a lot to say but a whole lot more to discover.
-Reach me at 📫 **akluth@tuta.io** if you've got an interesting project for me to work on or just want to chat.
+Reach me at 📫 **akluth@quackiquacki.org* if you've got an interesting project for me to work on or just want to chat.
 I'm speaking German, English, Dutch and Russian (Russian and Dutch are a bit jolty).
 
 <p align="center">
