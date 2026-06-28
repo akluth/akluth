@@ -1,6 +1,6 @@
 # Alexander Kluth
 
-**Senior Software Engineer · Agile Coach · Builder of useful weird things**
+**Senior Software Engineer · Agile Coach · Builder of useful (?) weird things**
 
 I build developer tools, tiny runtimes, CLIs, web apps and experiments somewhere between backend engineering, low-level curiosity and product thinking.
 
